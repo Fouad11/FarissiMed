@@ -751,7 +751,7 @@ p.site-slogan {
 #hornav ul#hornavmenu > li > span.active,
 #hornav ul#hornavmenu > li > a.current,
 #hornav ul#hornavmenu > li > span.current {
-  background: #33747a;
+	background-color: #708090;
 }
 #hornav .nav > li > a:hover,
 #hornav .nav > li > a:focus {
